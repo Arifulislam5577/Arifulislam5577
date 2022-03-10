@@ -2,7 +2,7 @@
 ![I am a Junior Javascript Developer](https://res.cloudinary.com/dwrpcntox/image/upload/v1646913205/Shopping-cart/Javascript_developer_awapd8.png)
 
 <h1 align="center">Hi 👋, I'm Md Ariful Islam</h1>
-<h3 align="center">A passionate Junior Javascript developer from Bangladesh</h3>
+<h3 align="center">A passionate Junior Javascript developer from Bangladesh. I'm highly passionate about JavaScript-based software development technologies such as: MERN Stack (MongoDB, Express.js, React, Node.js)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifulislam5577&label=Profile%20views&color=0e75b6&style=flat" alt="arifulislam5577" /> </p>
 
