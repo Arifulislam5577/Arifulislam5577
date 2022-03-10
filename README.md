@@ -1,23 +1,31 @@
 
-![I am a Junior Javascript Developer](https://res.cloudinary.com/dwrpcntox/image/upload/v1646910707/Shopping-cart/arif_zpszrx.png)
+![I am a Junior Javascript Developer](https://res.cloudinary.com/dwrpcntox/image/upload/v1646913205/Shopping-cart/Javascript_developer_awapd8.png)
 
-### Hi there 👋, This is Md Ariful Islam
-#### I am a Junior Javascript Developer
+<h1 align="center">Hi 👋, I'm Md Ariful Islam</h1>
+<h3 align="center">A passionate Junior Javascript developer from Bangladesh</h3>
 
-I’m a Junior Javascript developer and I’m very passionate and dedicated to my work. I love coding. With a year of experience as a professional web developer, I have acquired the skills and knowledge necessary to make your project a success. Your satisfaction is my mission!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifulislam5577&label=Profile%20views&color=0e75b6&style=flat" alt="arifulislam5577" /> </p>
 
-Skills: Html/Css/Sass/Bootstrap/Tailwind Css/Javascript/React Js/Node Js/Express Js/MongoDB
+- 🔭 I’m currently working on [Rolex E-commerce Application](https://rolex-shopping.herokuapp.com)
 
-- 🔭 I’m currently working on An E-commerce Application 
-- 🌱 I’m currently learning Node Js 
+- 🌱 I’m currently learning **Node Js and Graphql**
 
+- 👨‍💻 All of my projects are available at [mdarifulislam.com](mdarifulislam.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arifulislam5577)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Arifulislam5577)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Arifulislam5577/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Arifulislam5577)  
+- 📫 How to reach me **mdarifulislam370@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arifulislam5577)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/arif5577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arif5577" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arif5577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arif5577" height="30" width="40" /></a>
+<a href="https://fb.com/arif5577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arif5577" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arifulislam5577&show_icons=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arifulislam5577)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifulislam5577&show_icons=true&locale=en&layout=compact" alt="arifulislam5577" /></p>
 
-![Profile views](https://gpvc.arturio.dev/Arifulislam5577)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifulislam5577&show_icons=true&locale=en" alt="arifulislam5577" /></p> 
+
+![Profile views](https://gpvc.arturio.dev/Arifulislam5577)
