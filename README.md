@@ -1,5 +1,5 @@
 
-![I am a Junior Javascript Developer](https://res.cloudinary.com/arif5577/image/upload/v1646913205/Shopping-cart/Javascript_developer_awapd8.png)
+![I am a Junior Javascript Developer](https://media-exp1.licdn.com/dms/image/D5616AQFyEeOXdV3JgQ/profile-displaybackgroundimage-shrink_350_1400/0/1670474246380?e=1675900800&v=beta&t=IyGBC4knnQnMHkZm34Goo2gvG9z9cVMfzHoQJIsLG1c)
 
 <h1 align="center">Hi 👋, I'm Md Ariful Islam</h1>
 <h3 align="center">A passionate Junior Javascript developer from Bangladesh. I'm highly passionate about JavaScript-based software development technologies such as: MERN Stack (MongoDB, Express.js, React, Node.js)</h3>
