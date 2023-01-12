@@ -2,7 +2,7 @@
 ![I am a Junior Javascript Developer](https://media.licdn.com/dms/image/D5616AQGWlPZDm-Ia9A/profile-displaybackgroundimage-shrink_350_1400/0/1673413269017?e=1678924800&v=beta&t=3lSr7SBfLtFkq1R_ypzcgpmayi7lHIiyobEVtzbQwaM)
 
 <h1 align="center">Hi 👋, I'm Md Ariful Islam</h1>
-<h3 align="center">A passionate Junior Javascript developer from Bangladesh. I'm highly passionate about JavaScript-based software development technologies such as: MERN Stack (MongoDB, Express.js, React, Node.js)</h3>
+<h3 align="center">I'm a full-stack developer focused on developing Javascript based web applications. I love to manage everything from complex logic to the awesome layout of a web application. I always like to invest myself in acquiring new skills and I can adapt myself to new technologies in a short period of time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifulislam5577&label=Profile%20views&color=0e75b6&style=flat" alt="arifulislam5577" /> </p>
 
