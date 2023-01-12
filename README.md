@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👨‍💻 All of my projects are available at [mdarifulislam.com](mdarifulislam.com](https://arif-profile.web.app)
+- 👨‍💻 All of my projects are available at [mdarifulislam.com](https://arif-profile.web.app)
 
 - 📫 How to reach me **mdarifulislam370@gmail.com**
 
