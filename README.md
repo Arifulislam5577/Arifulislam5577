@@ -1,5 +1,5 @@
 
-![I am a Junior Javascript Developer](https://media.licdn.com/dms/image/D5616AQGWlPZDm-Ia9A/profile-displaybackgroundimage-shrink_350_1400/0/1673413269017?e=1684368000&v=beta&t=fdThqGEJI44tGB3wfk6XJreBN_BNd1XYi4P41AHSJAk)
+![I am a Junior Javascript Developer](https://media.licdn.com/dms/image/D5616AQGWlPZDm-Ia9A/profile-displaybackgroundimage-shrink_350_1400/0/1673413269017?e=1691020800&v=beta&t=mdhcDquN5u-PkGVULufztvghLebEl3Pi5jtWZp-yBY8)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifulislam5577&label=Profile%20views&color=0e75b6&style=flat" alt="arifulislam5577" /> </p>
 # 💫 About Me:
 I'm a MERN Stack developer focused on developing Javascript based web applications. I love to manage everything from complex logic to the awesome layout of a web application. I always like to invest myself in acquiring new skills and I can adapt myself to new technologies in a short period of time.
