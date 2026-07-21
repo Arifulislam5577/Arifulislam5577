@@ -1,6 +1,6 @@
 
 ![I am a Javascript Developer](https://res.cloudinary.com/arif5577/image/upload/v1692883670/918eaeed-8921-4acd-a1de-fd928c54d24f_ufaam4.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifulislam5577&label=Profile%20views&color=0e75b6&style=flat" alt="arifulislam5577" /> </p>
+# Full Stack Developer | React | Next.js | Vue.js | Node.js
 
 # About Me:
 
@@ -11,6 +11,7 @@ scalable applications with clean code and stunning UI/UX.
 Passionate about animation (GSAP, Framer Motion), design systems 
 (Storybook), and always eager to explore new technologies.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifulislam5577&label=Profile%20views&color=0e75b6&style=flat" alt="arifulislam5577" /> </p>
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arif.3399) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif5577) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arifulislam5577) 
@@ -57,7 +58,6 @@ Passionate about animation (GSAP, Framer Motion), design systems
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ## Currently Exploring:
-- Vue.js & Nuxt.js (Expanding frontend expertise)
 - PHP & WordPress (Backend diversification)  
 - Python (Scripting & automation)
 
