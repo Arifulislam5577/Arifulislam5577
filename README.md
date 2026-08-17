@@ -13,7 +13,7 @@ open-source UI library that **1,400+ developers** have starred.
 
 ---
 
-## ⭐ Keep React — my main open-source work
+## Keep React — open-source work
 
 An accessible, production-ready component library built on **React, Next.js, Tailwind CSS and Radix UI
 primitives**. I lead the architecture, run the npm release pipeline, write the docs and triage the issues.
@@ -23,14 +23,14 @@ primitives**. I lead the architecture, run the npm release pipeline, write the d
 | **Stars** | 1,400+ |
 | **Built with** | React · Next.js · TypeScript · Tailwind CSS · Radix UI |
 | **My role** | Lead Developer — architecture, releases, docs, community |
-| **Links** | [Live docs](https://react.keepdesign.io) · [Repository](https://github.com/StaticMania/keep-react) · [npm](https://www.npmjs.com/package/keep-react) |
+| **Links** | [Live docs](https://keep-react-pi.vercel.app) · [Repository](https://github.com/StaticMania/keep-react) · [npm](https://www.npmjs.com/package/keep-react) |
 
 Why it exists: most component libraries either fight Tailwind or leave accessibility as an exercise for
 the reader. Keep React does neither — Radix primitives underneath, Tailwind-first styling on top.
 
 ---
 
-## 🛠 What I work with
+## What I work with
 
 **Core**
 
@@ -61,7 +61,7 @@ the reader. Keep React does neither — Radix primitives underneath, Tailwind-fi
 
 ---
 
-## 💼 What I've shipped
+## What I've shipped
 
 - **30+ production projects** in 3.5 years with React.js and Next.js, across a range of industries
 - **2,600+ combined sales** on ThemeForest products (HTML, Next.js and WordPress editions)
@@ -71,15 +71,7 @@ the reader. Keep React does neither — Radix primitives underneath, Tailwind-fi
 
 ---
 
-## 📊 GitHub
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arifulislam5577&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=html,css)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arifulislam5577&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-![Streak](https://streak-stats.demolab.com/?user=Arifulislam5577&theme=dark&hide_border=false)
-
----
-
-## 📫 Reach me
+## Reach me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://developer-arif.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arif5577)
