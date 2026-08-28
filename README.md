@@ -1,4 +1,4 @@
-![Md Ariful Islam — Frontend Developer](https://res.cloudinary.com/arif5577/image/upload/v1786982879/banner_id9vjb.png)
+![Md Ariful Islam — Frontend Developer](https://res.cloudinary.com/arif5577/image/upload/v1787922948/LinkedIn_Banner-selection_dkcsat.png)
 
 # Frontend Developer · React.js & Next.js
 
