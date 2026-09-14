@@ -30,6 +30,27 @@ the reader. Keep React does neither — Radix primitives underneath, Tailwind-fi
 
 ---
 
+## Docora — open-source work
+
+An Open Source Documentation Framework for React and Next.js.
+Built with TypeScript, Tailwind CSS and MDX — with routing, search, SEO, i18n and an MCP server built in, so both people and AI tools can read your docs.
+
+| | |
+|---|---|
+| **Stars** | 15+ |
+| **Built with** | React · Next.js · TypeScript · Tailwind CSS |
+| **My role** | Lead Developer — architecture, releases, docs, community |
+| **Links** | [Live docs]([https://docora-docs.vercel.app/]) · [Repository](https://github.com/StaticMania/docora) · [npm](https://www.npmjs.com/package/docora) |
+
+I was building a Next.js application, but when it came to writing documentation, I found myself reaching for Docus - a documentation framework in the Nuxt ecosystem. I'm a genuine fan of Docus: the beautiful UI, the rich feature set, the table of contents, the components, the MDC syntax for writing Markdown with components. It's one of the best writing experiences I've come across.
+
+But that created an odd situation - I was building in Next.js, yet navigating to the Nuxt ecosystem just to write documentation. It made me pause and think: what if this same experience existed natively in Next.js and React?
+
+That question is what led me to build Docora.
+It's not a fork or a port - I rebuilt the philosophy from scratch for the Next.js/React stack, so developers in this ecosystem don't have to leave it just to get a great documentation experience.
+
+---
+
 ## What I work with
 
 **Core**
